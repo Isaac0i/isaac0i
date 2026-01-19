@@ -1,6 +1,7 @@
 ## Eae! Eu sou o Isaac 👾
 
-Me chamo  [Isaac Inacio](https://www.linkedin.com/in/isaacinacio), tenho 23 anos e estou cursando Engenharia de Software no ENIAC, onde busco cada vez mais aprender e me aperfeiçoar para me tornar um ótimo engenheiro de software.
+Me chamo  [Isaac Inacio](https://www.linkedin.com/in/isaacinacio), tenho 23 anos e estou cursando **Engenharia de Software no ENIAC**.
+Atualmente estou focado em me desenvolver como **Desenvolvedor Backend Java**, estudando e praticando a construção de **APIs, lógica de negócio, orientação a objetos e boas práticas de código**.
 
 ---
 
@@ -48,7 +49,6 @@ Me chamo  [Isaac Inacio](https://www.linkedin.com/in/isaacinacio), tenho 23 anos
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
 
 <br><br>
 

@@ -61,8 +61,7 @@ Atualmente estou focado em me desenvolver como **Desenvolvedor Backend Java**, e
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac0i&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400
-"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac0i&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400"
     alt="Top Langs"
     height="180"
   />

@@ -54,14 +54,14 @@ Atualmente estou focado em me desenvolver como **Desenvolvedor Backend Java**, e
 
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Isaac0i&show_icons=true&theme=dark&count_private=true&cache_seconds=86400"
+    src="https://github-readmee-stats.vercel.app/api?username=Isaac0i&show_icons=true&theme=dark"
     alt="GitHub Stats"
     height="180"
     align="left"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac0i&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400"
+    src="https://github-readmee-stats.vercel.app/api/top-langs/?username=Isaac0i&layout=compact&theme=dark"
     alt="Top Langs"
     height="180"
   />
